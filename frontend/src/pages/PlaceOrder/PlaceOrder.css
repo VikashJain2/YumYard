@@ -36,3 +36,9 @@
     margin-top: 30px;
 
 }
+
+@media (max-width:1000px) {
+    .place-order{
+        flex-direction: column;
+    }
+}
