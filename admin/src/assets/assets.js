@@ -17,4 +17,4 @@ export const assets ={
     logout_icon
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://yumyard-backend-xll3.onrender.com'
